@@ -1,0 +1,32 @@
+.sct01 {
+    /* vh: 화면 높이만큼 가지고 오는 단위 */
+    height: 100vh;
+    background-color: #dbdbdb;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.sctbox {
+    width: 250px; height: 600px;
+    background-color: #313131;
+}
+.sct02 {
+    height: 100vh;
+    background-color: #c4c4c4;
+}
+.sct03 {
+    height: 100vh;
+    background-color: #dbdbdb;
+}
+.sct04 {
+    height: 100vh;
+    background-color: #979797;
+}
+.sct05 {
+    height: 100vh;
+    background-color: #dbdbdb;
+}
+.sct06 {
+    height: 100vh;
+    background-color: #c4c4c4;
+}
