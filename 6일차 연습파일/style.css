@@ -1,28 +1,19 @@
 header {
+    border-bottom: 2px solid #E3E3E3;
     height: 86px;
-    background-color: red;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-nav {
-    background-color: blue;
-}
-.nav-box01 {
-    width: 92px; height: 12px;
-    border-radius: 2px; background: #CFCFCF;
-}
-h1 {
-    background-color: blueviolet;
-}
-.use-box {
-    background-color: #cfcfcf;
 }
 main {
-    height: 400vh;
-    background-color: orange;
+    border-bottom: 2px dashed #E3E3E3;
+    height: 2526px;
+}
+.sct-01 {
+    display: flex;
+}
+.sct-01, .sct-02, .sct-03, .sct-04 {
+    background: #dddddd;
+    border-bottom: 1px solid #000;
 }
 footer {
+    border: 2px solid #E3E3E3;
     height: 68px;
-    background-color: blue;
 }
