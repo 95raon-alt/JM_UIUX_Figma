@@ -1,0 +1,30 @@
+
+main {
+    margin: 80px;
+    padding: 0 80px;
+}
+.inner {
+    width: 1760px; height: 872px;
+    border: 1px solid #000;
+}
+.t-box {
+    width: 1760px; height: 42px;
+    border: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 64px; padding-bottom: 40px;
+}
+.nav-01 {
+    padding-left: 80px;
+}
+.nav-02 {
+    padding-right: 80px;
+}
+.img-box {
+    display: flex;
+    justify-content: space-between;
+}
+.box-01, .box-02, .box-03, .box-04 {
+    width: 100%; height: 410px;
+    border: 1px solid #000;
+}
